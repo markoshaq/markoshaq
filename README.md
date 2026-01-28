@@ -1,4 +1,4 @@
-Welcome! I'm currently working on BYOworkout, a free, very customizable app for tracking your fitness - more to be revealed soon.
+Welcome! I'm currently working on BYOworkout, a free, customizable app for tracking strength progress - more to be revealed soon.
 
 <img src="./BYOworkout.png" alt="BYOworkout" width="200">
 
