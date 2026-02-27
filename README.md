@@ -3,7 +3,7 @@
 I'm currently creating **[BYOworkout](https://byoworkout.com)**, a completely free and highly customizable app for tracking your strength progress.  
 
 <a href="https://byoworkout.com">
-  <img src="./BYOworkout.png" alt="BYOworkout App" width="120" align="right" style="border-radius: 12px; margin-left: 15px;">
+  <img src="./BYOworkout.png" alt="BYOworkout App" width="200" align="right" style="border-radius: 12px; margin-left: 15px;">
 </a>
 
 **Progressive overload at no cost. All the features without a subscription.**
