@@ -22,7 +22,7 @@ Most fitness apps don't account for unique training splits or the need for deep 
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 </div>
 
-<img src="./BYOworkout.png" align="right" width="150">
+<img src="./Showcase_Workouts.png" align="right" width="150">
 
 ### Workouts
 
@@ -34,7 +34,7 @@ Design any training style with unlimited exercises and sets. Track your progress
 
 <p align="center">────────────────────────────────────────────────────────────</p>
 
-<img src="./BYOworkout.png" align="left" width="150">
+<img src="./Showcase_Nutrition.png" align="left" width="150">
 
 ### Nutrition
 
@@ -46,7 +46,7 @@ Log your meals and hit your macros with a massive, integrated food database and 
 
 <p align="center">────────────────────────────────────────────────────────────</p>
 
-<img src="./BYOworkout.png" align="right" width="150">
+<img src="./Showcase_Stats.png" align="right" width="150">
 
 ### Statistics
 
