@@ -1,8 +1,12 @@
 # Welcome! I'm Marko. 👋
 
-I'm currently creating **[BYOworkout](https://byoworkout.com)**, a completely free and highly customizable app for tracking your strength progress. 
-
-Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data **fully exportable** and creating a platform versatile enough to fit *any* training style.
+I am currently a software developer at Sellmore.
+Check out what I'm working on below!
+<br><br>
+<h2>Featured Project: BYOworkout</h2>
+A completely free and highly customizable app for tracking your strength progress. 
+<br><br>
+Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data **fully exportable** and creating a platform versatile enough to fit *any* training style.<br>
 
 <br>
 
