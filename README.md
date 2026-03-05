@@ -24,11 +24,11 @@ Most fitness apps don't account for unique training splits or the need for deep 
 
 Design any training style with unlimited exercises and sets. Track your progress with zero friction.
 
-  ✅ **Customizable Splits** — Design any training style with unlimited exercises.<br>
-  ✅ **Progressive Overload** — Automatic calculations for strength gains and PRs.<br>
-  ✅ **Offline Support** — PWA support lets you track workouts without internet.<br>
+  ✅ Design any training style with unlimited exercises.<br>
+  ✅ Automatic calculations for strength gains and PRs.<br>
+  ✅ PWA support lets you track workouts without internet.<br>
 
----
+<p align="center">─────────────────────────────────────────────────────────────────────────────────────────</p>
 
 <img src="./BYOworkout.png" align="left" width="150">
 
@@ -36,11 +36,11 @@ Design any training style with unlimited exercises and sets. Track your progress
 
 Log your meals and hit your macros with a massive, integrated food database and lightning-fast entry.
 
-  ✅ **Nutrition Logging** — Integrated food search and macro tracking.<br>
-  ✅ **Barcode Scanning** — Fast entry via camera integration.<br>
-  ✅ **Real-Time Sync** — Cloud-backed across all devices instantly.<br>
+  ✅ Integrated food search and macro tracking.<br>
+  ✅ Fast entry via barcode scanning.<br>
+  ✅ User data backed across all devices instantly.<br>
 
----
+<p align="center">─────────────────────────────────────────────────────────────────────────────────────────</p>
 
 <img src="./BYOworkout.png" align="right" width="150">
 
@@ -48,8 +48,10 @@ Log your meals and hit your macros with a massive, integrated food database and 
 
 Your data belongs to you. Gain deep insights into your progress with beautiful, high-fidelity visualizations.
 
-  ✅ **Visual Analytics** — Detailed graphs and trends based on your history.<br>
-  ✅ **Full Data Export** — Download everything in CSV/JSON format. You own it.<br>
-  ✅ **Truly Free** — No hidden costs, no subs, and no predatory monetization.<br>
+  ✅ Detailed graphs and trends based on your history.<br>
+  ✅ Download everything in CSV/JSON format. You own it.<br>
+  ✅ No hidden costs, no subs, and no predatory monetization.<br>
+
+<br><br>
 
 © 2026 Marko Šekuljica
