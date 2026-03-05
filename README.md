@@ -1,8 +1,19 @@
-# Welcome! I'm Marko. 👋
+# Hi, I'm Marko. 👋
+Software Developer @ Sellmore
+<br>
 
-I am currently a software developer at Sellmore.
+My daily work:
+* Developing custom CRM modules and integrating systems via REST APIs.
+* Setting up software on customer servers and handling complex migrations.
+* Creating advanced SQL reports to drive business decisions.
+* Providing 3rd level technical support
+
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-blue?style=flat&logo=visual-studio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-0052FF?style=flat&logo=express&logoColor=white)
+<br>
+
 Check out what I'm working on below!
-<br><br>
+<br>
+<br>
 <h2>Featured Project: BYOworkout</h2>
 A completely free and highly customizable app for tracking your strength progress. 
 <br><br>
@@ -26,36 +37,34 @@ Most fitness apps don't account for unique training splits or the need for deep 
 
 ### Workouts
 
-Design any training style with unlimited exercises and sets. Track your progress with zero friction.
+&mdash; Design any training style with unlimited exercises.<br>
+&mdash; Automatic calculations for strength gains and PRs.<br>
+&mdash; PWA support lets you track workouts without internet.<br>
 
-  ✅ Design any training style with unlimited exercises.<br>
-  ✅ Automatic calculations for strength gains and PRs.<br>
-  ✅ PWA support lets you track workouts without internet.<br>
-
-<p align="center">─────────────────────────────────────────</p>
+---
 
 <img src="./Showcase_Nutrition.png" align="left" width="150">
 
 ### Nutrition
 
-Log your meals and hit your macros with a massive, integrated food database and lightning-fast entry.
+&mdash; Integrated food search and macro tracking.<br>
+&mdash; Fast entry via barcode scanning.<br>
+&mdash; User data backed across all devices instantly.<br>
 
-  ✅ Integrated food search and macro tracking.<br>
-  ✅ Fast entry via barcode scanning.<br>
-  ✅ User data backed across all devices instantly.<br>
-
-<p align="center">─────────────────────────────────────────</p>
+---
 
 <img src="./Showcase_Stats.png" align="right" width="150">
 
+<br>
+
 ### Statistics
 
-Your data belongs to you. Gain deep insights into your progress with beautiful, high-fidelity visualizations.
+&mdash; Detailed graphs and trends based on your history.<br>
+&mdash; Download everything in CSV/JSON format. You own it.<br>
+&mdash; No hidden costs, no subs, and no predatory monetization.<br>
 
-  ✅ Detailed graphs and trends based on your history.<br>
-  ✅ Download everything in CSV/JSON format. You own it.<br>
-  ✅ No hidden costs, no subs, and no predatory monetization.<br>
+---
 
-<br><br>
+<br>
 
 © 2026 Marko Šekuljica
