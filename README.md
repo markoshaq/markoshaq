@@ -32,7 +32,7 @@ Design any training style with unlimited exercises and sets. Track your progress
   ✅ Automatic calculations for strength gains and PRs.<br>
   ✅ PWA support lets you track workouts without internet.<br>
 
-<p align="center">────────────────────────────────────────────────────────────</p>
+<p align="center">─────────────────────────────────────────</p>
 
 <img src="./Showcase_Nutrition.png" align="left" width="150">
 
@@ -44,7 +44,7 @@ Log your meals and hit your macros with a massive, integrated food database and 
   ✅ Fast entry via barcode scanning.<br>
   ✅ User data backed across all devices instantly.<br>
 
-<p align="center">────────────────────────────────────────────────────────────</p>
+<p align="center">─────────────────────────────────────────</p>
 
 <img src="./Showcase_Stats.png" align="right" width="150">
 
