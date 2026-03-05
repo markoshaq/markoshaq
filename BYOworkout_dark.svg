@@ -1,0 +1,17 @@
+<svg width="195" height="60" viewBox="0 0 195 60" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: 'Inter', sans-serif;
+      font-weight: 800;
+      font-size: 30px;
+      letter-spacing: -0.025em;
+      fill: #18181b;
+    }
+    .primary { fill: #dc2626; }
+    
+    @media (prefers-color-scheme: dark) {
+      .text { fill: #ffffff; }
+    }
+  </style>
+  <text x="10" y="40" class="text">BYO<tspan class="primary">workout</tspan></text>
+</svg>
