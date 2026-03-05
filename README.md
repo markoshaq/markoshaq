@@ -17,14 +17,14 @@ Check out what I'm working on below!
 <h2>Featured Project: BYOworkout</h2>
 A completely free and highly customizable app for tracking your strength progress. 
 <br><br>
-Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data **fully exportable** and creating a platform versatile enough to fit *any* training style.<br>
+Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data fully exportable and creating a platform versatile enough to fit any training style.<br>
 
 <br>
 
 <div align="center">
   <p><strong>Progressive overload at no cost. All the features without a subscription.</strong></p>
   <a href="https://byoworkout.com">
-    www.byoworkout.com
+    <img src="./BYOworkout.png" width="300">
   </a>
   
   <br>
