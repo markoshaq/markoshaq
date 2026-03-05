@@ -14,23 +14,30 @@ My daily work:
 Check out what I'm working on below!
 <br>
 <br>
-<h2>Featured Project: BYOworkout</h2>
-A completely free and highly customizable app for tracking your strength progress. 
-<br><br>
-Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data fully exportable and creating a platform versatile enough to fit any training style.<br>
-
-<br>
+---
 
 <div align="center">
-  <p><strong>Progressive overload at no cost. All the features without a subscription.</strong></p>
   <a href="https://byoworkout.com">
-    <img src="./BYOworkout.png" width="300">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./BYOworkout_dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./BYOworkout_light.svg">
+      <img alt="BYOworkout Logo" src="./BYOworkout_light.svg" width="400">
+    </picture>
   </a>
-  
+  <p><strong>Progressive overload at no cost. All the features without a subscription.</strong></p>
+  <p>
+    <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white">
+  </p>
   <br>
+  Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data fully exportable and creating a platform versatile enough to fit any training style.<br>
   <br>
 
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white)
 </div>
 
 <img src="./Showcase_Workouts.png" align="right" width="150">
