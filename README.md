@@ -40,7 +40,7 @@ Check out what I'm working on below!
 
 </div>
 
-<img src="./Showcase_Workouts.png" align="right" width="150">
+<img src="./Showcase_Workouts.png" align="left" height="160">
 
 ### Workouts
 
@@ -50,28 +50,24 @@ Check out what I'm working on below!
 
 ---
 
-<img src="./Showcase_Nutrition.png" align="left" width="150">
+<img src="./Showcase_Nutrition.png" align="left" height="160">
 
 ### Nutrition
 
 &mdash; Integrated food search and macro tracking.<br>
 &mdash; Fast entry via barcode scanning.<br>
-&mdash; User data backed across all devices instantly.<br>
+&mdash; User data backed across all devices instantly.<br><br>
 
 ---
 
-<img src="./Showcase_Stats.png" align="right" width="150">
-
-<br>
+<img src="./Showcase_Stats.png" align="left" height="160">
 
 ### Statistics
 
 &mdash; Detailed graphs and trends based on your history.<br>
 &mdash; Download everything in CSV/JSON format. You own it.<br>
 &mdash; No hidden costs, no subs, and no predatory monetization.<br>
+<br style="clear: both;">
 
 ---
 
-<br>
-
-© 2026 Marko Šekuljica
