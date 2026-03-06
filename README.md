@@ -3,9 +3,9 @@ Software Developer @ Sellmore
 <br>
 
 My daily work:
-* Developing custom CRM modules and integrating systems via REST APIs.
-* Setting up software on customer servers and handling complex migrations.
-* Creating advanced SQL reports to drive business decisions.
+* Developing custom Sage CRM and AG-VIP modules, integrating other software via APIs.
+* Setting up SQL Servers for customers and handling migrations of CRM systems.
+* Creating SQL reports to drive business decisions.
 * Providing 3rd level technical support
 
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-blue?style=flat&logo=visual-studio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-0052FF?style=flat&logo=express&logoColor=white)
