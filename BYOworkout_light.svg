@@ -8,10 +8,6 @@
       fill: #18181b;
     }
     .primary { fill: #dc2626; }
-    
-    @media (prefers-color-scheme: dark) {
-      .text { fill: #ffffff; }
-    }
   </style>
-  <text x="05" y="30" class="text">BYO<tspan class="primary">workout</tspan></text>
+  <text x="5" y="30" class="text">BYO<tspan class="primary">workout</tspan></text>
 </svg>
