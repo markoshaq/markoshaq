@@ -9,7 +9,7 @@
 <div align="left"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white"></div>
 
 - a subscription-free alternative to mainstream fitness apps built for full routine customization and complete offline pwa support.
-- features deep progress tracking and data analytics with instant csv/json exports for 100% data ownership.
+- features deep progress tracking and data analytics with instant json exports for 100% data ownership and control.
 
 <br>
 
