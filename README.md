@@ -1,73 +1,45 @@
-# Hi, I'm Marko. 👋
-Software Developer @ Sellmore
-<br>
+# hi, i'm marko. 👋
 
-My daily work:
-* Developing custom Sage CRM and AG-VIP modules, integrating other software via APIs.
-* Setting up SQL Servers for customers and handling migrations of CRM systems.
-* Creating SQL reports to drive business decisions.
-* Providing 3rd level technical support
+i'm a software developer with professional experience in the erp and crm world. i own projects from the first customer call to architecture planning, core development, complex sql reporting, and infrastructure migrations.
 
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-blue?style=flat&logo=visual-studio&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-0052FF?style=flat&logo=express&logoColor=white)
-<br>
+![list & label](https://img.shields.io/badge/List_&_Label-005B94?style=flat&logo=databricks&logoColor=white) ![sage crm](https://img.shields.io/badge/Sage_CRM-008152?style=flat&logo=sage&logoColor=white)
+![.net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![c#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![asp.net](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white) ![vbscript](https://img.shields.io/badge/VBScript-0078D7?style=flat&logo=visual-studio&logoColor=white) ![rest api](https://img.shields.io/badge/REST_APIs-0052FF?style=flat&logo=express&logoColor=white) ![json](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![xml](https://img.shields.io/badge/XML-9B4D96?style=flat&logo=xml&logoColor=white)
 
-Check out what I'm working on below!
-<br>
-<br>
----
+personally, i’m just incredibly curious about how technology works under the hood, which keeps me diving into topics like cybersecurity and my own projects. 
 
-<div align="center">
-  <a href="https://byoworkout.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./BYOworkout_dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="./BYOworkout_light.svg">
-      <img alt="BYOworkout Logo" src="./BYOworkout_light.svg" width="400">
-    </picture>
-  </a>
-  <p><strong>Progressive overload at no cost. All the features without a subscription.</strong></p>
+right now, i am working on: [www.byoworkout.com](https://www.byoworkout.com)
+
+--- 
+
+<div align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./BYOworkout_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./BYOworkout_light.svg">
+    <img alt="byoworkout logo" src="./BYOworkout_light.svg" width="180">
+  </picture>
+  <p><em>progressive overload at no cost. all features, zero subscriptions.</em></p>
+  
   <p>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> 
     <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> 
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> 
     <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"> 
-    <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white"> 
     <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"> 
     <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white">
   </p>
-  <br>
-  Most fitness apps don't account for unique training splits or the need for deep customization. With thousands of apps using predatory monetization and cluttered UI, I decided to build a solution for my own daily life. As a numbers nerd, my priority is making all user data fully exportable and creating a platform versatile enough to fit any training style.<br>
-  <br>
-
 </div>
 
-<img src="./Showcase_Workouts.png" align="left" height="160">
+most fitness apps use predatory subscriptions or have little to no analytics. as a numbers nerd, i wanted a clean alternative to track my training splits where my data is 100% mine, so i built it myself.
 
-### Workouts
+<br>
 
-&mdash; Design any training style with unlimited exercises.<br>
-&mdash; Automatic calculations for strength gains and PRs.<br>
-&mdash; PWA support lets you track workouts without internet.<br>
+<img src="./Showcase_Workouts.png" align="left" height="130" style="margin-right: 15px;">
 
----
+#### workouts
+unlimited routine customization, automated pr tracking, and full offline pwa support so it works when the gym wifi is down.
+<br style="clear: both;"><br>
 
-<img src="./Showcase_Nutrition.png" align="left" height="160">
+<img src="./Showcase_Stats.png" align="left" height="130" style="margin-right: 15px;">
 
-### Nutrition
-
-&mdash; Integrated food search and macro tracking.<br>
-&mdash; Fast entry via barcode scanning.<br>
-&mdash; User data backed across all devices instantly.<br><br>
-
----
-
-<img src="./Showcase_Stats.png" align="left" height="160">
-
-### Statistics
-
-&mdash; Detailed graphs and trends based on your history.<br>
-&mdash; Download everything in CSV/JSON format. You own it.<br>
-&mdash; No hidden costs, no subs, and no predatory monetization.<br>
-<br style="clear: both;">
-
----
-
+#### analytics & privacy
+deep progress charts with instant csv/json data exports. no hidden costs, no ads, and full data ownership.
