@@ -5,7 +5,15 @@
 
 <br>
 
-## 🌱 currently working on: [byoworkout](https://www.byoworkout.com)
+## 🎱 currently working on: [BilliardOS](https://billiardos.com)
+<div align="left"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Astro-%23132194.svg?style=flat&logo=astro&logoColor=white"> <img src="https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7"> <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=flat&logo=postgresql&logoColor=white"></div>
+
+- a b2b saas tablet scoring system for billiard bars — real-time game tracking across 5 modes with offline event buffering and secure device pairing.
+- includes a role-based admin dashboard with live analytics, ad campaign management, sponsor impression tracking, and audit logging.
+
+<br>
+
+## 🔨 also building: [byoworkout](https://www.byoworkout.com)
 <div align="left"><img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"> <img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white"> <img src="https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase&logoColor=white"> <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white"> <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=flat&logo=cloudflare&logoColor=white"></div>
 
 - a subscription-free alternative to mainstream fitness apps built for full routine customization and complete offline pwa support.
@@ -14,9 +22,9 @@
 <br>
 
 ## 👤 about me
-- 21 years old.
+- 22 years old.
 - incredibly curious about how technology works under the hood, picking up new skills, and interested in cybersecurity.
-- gym, movies, shows, anime, travel, and food are how i spend my time outside of programming
+- gym, movies, shows, anime, travel, and cooking are how i spend my time outside of programming
 
 <br>
 
