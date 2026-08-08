@@ -21,16 +21,15 @@
 
 <br>
 
-## �️ other projects i've built
+## 🛠️ other projects i've built
 
-- [AltTabExcluder](https://github.com/markoshaq/AltTabExcluder) — a lightweight Windows tray utility (.NET 8, WinForms) that hides windows from the Alt+Tab switcher by toggling Win32 extended styles. 130+ tests, CI/CD with coverage gating, CodeQL scanning, and automated single-file releases.
+- [AltTabExcluder](https://github.com/markoshaq/AltTabExcluder), a lightweight Windows tray utility (.NET 8, WinForms) that hides windows from the Alt+Tab switcher by toggling Win32 extended styles. 130+ tests, CI/CD with coverage gating, CodeQL scanning, and automated single-file releases.
 
 <br>
 
-## �👤 about me
-- 22 years old.
-- incredibly curious about how technology works under the hood, picking up new skills, and interested in cybersecurity.
-- gym, movies, shows, anime, travel, and cooking are how i spend my time outside of programming
+## 👤 about me
+- i love dissecting technology until i understand every part, and am especially interested in cybersecurity
+- outside of programming, you'll find me at the gym, watching movies/shows/anime, cooking, traveling or tinkering with cars.
 
 <br>
 
