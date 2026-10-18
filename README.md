@@ -22,7 +22,9 @@ I'm a full-lifecycle B2B engineer driving projects from requirements engineering
 
 <br>
 
-## 🛠️ Other projects I've built
+## 🛠️ Other things I've built
+
+- [OpenBGR](https://github.com/markoshaq/OpenBGR), an offline background removal application (Python/FastAPI, PyTorch BiRefNet, pywebview desktop shell, vanilla ES-module frontend) with a multi-tab workspace, batch processing, and 6 model tiers. Per-OS releases with right-click integrations and a headless CLI mode.
 
 - [AltTabExcluder](https://github.com/markoshaq/AltTabExcluder), a lightweight Windows tray utility (.NET 8, WinForms) that hides windows from the Alt+Tab switcher by toggling Win32 extended styles. 130+ tests, CI/CD with coverage gating, CodeQL scanning, and automated single-file releases.
 
